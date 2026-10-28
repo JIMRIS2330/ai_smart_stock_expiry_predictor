@@ -1,0 +1,6 @@
+{
+  "name": "OmniShelf AI - Smart Stock Expiry Predictor",
+  "description": "3D interactive smart warehouse and real-time inventory shelf-life forecasting, kinetic spoilage prediction, sensor telemetry, and dynamic discount optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
